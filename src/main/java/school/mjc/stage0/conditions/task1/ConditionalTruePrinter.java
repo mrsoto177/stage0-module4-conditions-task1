@@ -8,11 +8,11 @@ public class ConditionalTruePrinter {
     	
     	if (a>b) {
     		
-    		System.out.println("True");
+    		System.out.println(true);
     		
     	} else {
     		
-    		System.out.println("False");
+    		System.out.println(false);
     	}
     }
 }
